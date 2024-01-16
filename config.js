@@ -2,8 +2,8 @@ module.exports = {
     config:function(){
         return (
             {
-                adminUsers:[ADMIN_ID], //admin users' telegram id, should be numbers
-                botToken: 'YOUR_BOT_TOEKN', // bot token
+                adminUsers:[6342937226], //admin users' telegram id, should be numbers
+                botToken: '6461387320:AAE5VOYa1tcTqDbJ9zPJz_rB4YURFdbe7f4', // bot token
 
             }
         );
